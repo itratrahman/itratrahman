@@ -157,23 +157,6 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 
 * **First Class Honours**; First class results across all 4 years
 * **2014 UROS Studentship** (top undergraduates in Engineering Faculty)
-* Degree certificate: **[Link](YOUR_DEGREE_CERTIFICATE_LINK)**
-
----
-
-## 📜 Certifications (Coursera)
-
-* Deep Learning Specialization (5 courses) — **[Link](YOUR_COURSERA_LINK)**
-* Machine Learning Specialization (4 courses) — **[Link](YOUR_COURSERA_LINK)**
-* Data Engineering, Big Data, and ML on GCP (5 courses) — **[Link](YOUR_COURSERA_LINK)**
-* Python Specialization (5 courses) — **[Link](YOUR_COURSERA_LINK)**
-
----
-
-## 🧑‍🏫 Teaching & Mentorship
-
-* Built ML curriculum + code repos + slides + recorded lectures.
-* Mentored and led data scientists (Senior role since Jan 2022 at SSL Wireless).
 
 ---
 
