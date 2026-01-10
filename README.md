@@ -181,30 +181,6 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 
 ---
 
-## 📌 Pinned (edit these once your repos are public)
-
-> Replace the placeholders with your actual repositories.
-
-* 🔥 **agentic-rag-enterprise** — Custom GPT Actions + Azure Functions middleware for SharePoint/Dynamics 365
-* 🧾 **resume-llm-parser** — OCR + LLM extraction + vector DB for resume retrieval/chat
-* 👁️ **doc-verification-saas** — detection + OCR + resemblance checks + FastAPI + CI/CD
-* 🧠 **bangla-asr-ner** — Bangla speech-to-text + NER pipeline (production)
-* 🧱 **mlops-airflow-vertex** — automated retraining + forecasting + dashboards
-* 🌍 **geospatial-route-optimizer** — merchant scanning + shortest route planning
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-
-</div>
-
----
-
 ## 🤝 Let’s connect
 
 * 📫 Email: **[rahmanitrat@gmail.com](mailto:rahmanitrat@gmail.com)**
