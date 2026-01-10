@@ -163,9 +163,9 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 ## 🤝 Let’s connect
 
 * 📫 Email: **[rahmanitrat@gmail.com](mailto:rahmanitrat@gmail.com)**
-* 💼 LinkedIn: **YOUR_LINKEDIN_URL**
-* 🧩 Portfolio: **YOUR_PORTFOLIO_URL**
-* ⭐ Recommendations: **YOUR_RECOMMENDATIONS_URL**
+* 💼 LinkedIn: **http://www.linkedin.com/in/itratrahman**
+* 🧩 Portfolio: **https://docs.google.com/document/d/1oNbLlHdMvmbokG68S_eV-a0iEZwsJL6AnEls6lPbZVE/edit?usp=sharing**
+* ⭐ Recommendations: **https://www.linkedin.com/in/itratrahman/details/recommendations/**
 
 ---
 
