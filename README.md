@@ -17,8 +17,6 @@ Then edit the placeholder links (LinkedIn/Portfolio/Recommendations) and the pin
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="YOUR_RECOMMENDATIONS_URL"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a> <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=itratrahman&style=flat&label=Profile%20views" />
-
 </div>
 
 ---
