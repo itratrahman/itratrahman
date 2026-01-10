@@ -1,60 +1,219 @@
-# Hi there, I'm Itrat Rahman 👋 
+<!--
+Hi Itrat — copy/paste this into a repo named exactly: ItratRahman/ItratRahman (or your GitHub username/username)
+Then edit the placeholder links (LinkedIn/Portfolio/Recommendations) and the pinned repos section.
+-->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Senior%20AI%20Engineer-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/-Data%20Scientist-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MLOps-orange?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-UCL%20Graduate-red?style=for-the-badge" />
-</p>
+<div align="center">
 
----
+# ITRAT RAHMAN
 
-### 🎞️ Professional Summary
-[cite_start]I am a **Senior AI Engineer & Data Scientist** with over **9 years of experience**[cite: 274]. [cite_start]I specialize in bridging the gap between deep technical research and scalable production engineering[cite: 307]. [cite_start]A **First Class Honours graduate from University College London (UCL)**, I architect end-to-end production systems that solve complex business problems[cite: 308].
+**Senior AI Engineer / Data Scientist (9+ yrs)** · **Computer Vision** · **NLP/LLMs/GenAI** · **Agentic RAG** · **MLOps & Cloud**
 
-- [cite_start]🚀 **GenAI & Agentic AI:** Architected RAG-based agentic workflows and Custom GPTs that improved enterprise productivity by up to 10x[cite: 276].
-- [cite_start]👁️ **Computer Vision:** Developed real-time face recognition (99.5% accuracy) and eKYC SaaS (DocChecker.ai)[cite: 315, 317].
-- [cite_start]🏗️ **Data Engineering:** Built high-throughput pipelines processing **100M+ monthly records**[cite: 280].
-- [cite_start]⚙️ **MLOps:** Established automated CI/CD and retraining pipelines with zero downtime[cite: 278].
+📍 Texas, USA · ✈️ Open to relocate anywhere in the US · 🛂 Visa: **H‑1B** (open to **C2C / H1B transfer**)
 
----
+<a href="mailto:rahmanitrat@gmail.com"><img src="https://img.shields.io/badge/Email-rahmanitrat%40gmail.com-informational?style=flat&logo=gmail" /></a>
 
-### 📊 My Tech Stack
+<!-- Optional (public): <img src="https://img.shields.io/badge/Phone-832--670--1119-informational?style=flat&logo=phone" /> -->
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **GenAI / LLMs** | `Llama 3.2`, `GPT-4`, `LangChain`, `LangGraph`, `RAG`, `Vector DBs (Chroma, Pinecone)` |
-| **AI / ML** | `TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`, `NLP (spaCy, Hugging Face)`, `Computer Vision (OpenCV)` |
-| **Data Engineering** | `Apache Spark`, `Dask`, `BigQuery`, `SQL`, `MongoDB`, `Dataflow` |
-| **MLOps & DevOps** | `Docker`, `Kubernetes`, `FastAPI`, `Airflow`, `MLflow`, `Jenkins`, `CI/CD` |
-| **Cloud** | `GCP (Vertex AI)`, `Azure (Functions)`, `AWS (Sagemaker)` |
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="YOUR_RECOMMENDATIONS_URL"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a> <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Profile%20views" />
+
+</div>
 
 ---
 
-### 🏆 Featured Projects
+## 🚀 What I do
 
-#### 🤖 [Agentic RAG Workflows](https://github.com/itratrahman)
-[cite_start]Developed sophisticated AI agents for enterprise data silos (SharePoint, Dynamics 365), revolutionizing research and CRM analysis efficiency[cite: 311, 312].
+I build **production AI systems** end‑to‑end — from data pipelines and model training to **containerized APIs** and **monitoring dashboards**.
 
-#### 👤 [SSL Sentinel (Face Recognition)](https://github.com/itratrahman)
-[cite_start]A real-time facial recognition startup built on my engine, achieving 99.5% accuracy and serving multiple enterprise clients[cite: 315, 316].
-
-#### 📄 [DocChecker.ai](https://github.com/itratrahman)
-[cite_start]An automated eKYC and document verification SaaS utilizing complex OCR and resemblance checks with 98% precision[cite: 317, 318].
+* **GenAI / LLM / Agentic RAG**: Custom GPTs + Actions, NLQ→OData, document search via Graph API, automated analytics + QA on enterprise data.
+* **Computer Vision**: Document verification, face recognition/verification, intrusion detection, spoof detection, OCR/parsing at scale.
+* **NLP (Bangla)**: Production‑grade **ASR** + **NER** pipelines with strong real‑world accuracy.
+* **MLOps / Data Engineering**: CI/CD (Jenkins), orchestration (Airflow), ML lifecycle automation (MLflow/Vertex AI), BigQuery-first analytics.
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itratrahman&show_icons=true&theme=radical" alt="Itrat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itratrahman&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🧠 Highlights (numbers that matter)
+
+* **95%+** Bengali **NER** entity extraction accuracy.
+* Bengali **ASR** achieved **2.63 Levenshtein Distance** on a merchant/field‑force speech corpus.
+* **Document verification**: custom object detection **~98% mAP**, resemblance check **~97% F1**, OCR parsing **~95%**.
+* **Face recognition**: improved custom test accuracy to **99.5%**; deployed multi-camera real-time pipeline.
+* **Enterprise GenAI**: boosted research productivity **5×–10×** (SharePoint literature review + SOP QA) and ad‑hoc analytics productivity **1.5×–2×** (Dynamics 365).
+* **Big data pipelines**: processed **100M+ rows/month**, speeding phases **6×–30×** using Dask/concurrency/indexing.
+* **Forecasting + experimentation**: drove **~7%** transaction uplift during campaign seasons (validated via A/B testing).
 
 ---
 
-### 🤝 Connect with Me
-- **LinkedIn:** [linkedin.com/in/itratrahman](https://linkedin.com/in/itratrahman)
-- **Email:** [rahmanitrat@gmail.com](mailto:rahmanitrat@gmail.com)
-- [cite_start]**Location:** Willing to relocate anywhere in the US (H-1B Visa) [cite: 271, 269]
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages** <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" /> <img src="https://img.shields.io/badge/SQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/Bash-333?style=flat&logo=gnu-bash" />
+
+**ML / DL** <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch" /> <img src="https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow" /> <img src="https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface" /> <img src="https://img.shields.io/badge/spaCy-333?style=flat&logo=spacy" /> <img src="https://img.shields.io/badge/scikit--learn-333?style=flat&logo=scikitlearn" />
+
+**GenAI / Agents** <img src="https://img.shields.io/badge/RAG-333?style=flat" /> <img src="https://img.shields.io/badge/LangChain-333?style=flat" /> <img src="https://img.shields.io/badge/LangGraph-333?style=flat" /> <img src="https://img.shields.io/badge/Custom%20GPT%20%2B%20Actions-333?style=flat" />
+
+**MLOps / Infra** <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/FastAPI-333?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/MLflow-333?style=flat" /> <img src="https://img.shields.io/badge/Airflow-333?style=flat&logo=apache-airflow" /> <img src="https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins" />
+
+**Data / DB / Vector** <img src="https://img.shields.io/badge/BigQuery-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/Pinecone-333?style=flat" /> <img src="https://img.shields.io/badge/ChromaDB-333?style=flat" /> <img src="https://img.shields.io/badge/Weaviate-333?style=flat" />
+
+**Cloud** <img src="https://img.shields.io/badge/GCP-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure" /> <img src="https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws" />
+
+</div>
 
 ---
+
+## 🏗️ Featured builds
+
+> **Tip:** Link each bullet to a repo (or case study page) once you publish them.
+
+### 🤖 Enterprise GenAI / Agentic RAG
+
+* **SharePoint RAG agent** using **Custom GPT + Actions + Azure Functions** middleware: document search (Graph API) + grounded extraction + answers → **5×–10×** faster literature review.
+* **Dynamics 365 CRM RAG agent**: **NLQ → OData** via Custom GPT prompts + Dataverse API retrieval + auto-merge + LLM QA (code interpreter) → **1.5×–2×** faster ad‑hoc analytics.
+* **SOP QA GPT** for safety-critical operational files: quick, contextual answers to high‑risk workers’ queries.
+* **Automated monthly research pipeline**: journal + patent search (SERPAPI + semantic search) → curated top findings emailed to stakeholders.
+* **ChatGPT workspace logs → Rapid7**: secure daily + historical backfills for compliance/audit archiving and analytics.
+
+### 🧾 CV / Document Intelligence
+
+* **Resume parser + retrieval chatbot**: OCR (Vision API) + cleaning + extraction (**~99%** field accuracy) + Pinecone vector store; chatbot reached **~95%** accuracy via LLM‑assisted evaluation.
+* **Multimodal resume model** (CLIP-style contrastive) + **LoRA/QLoRA** fine‑tuning for high‑impact downstream tasks; also used for **resume-type segmentation** via hierarchical clustering over embeddings.
+* **Resume ranking system**: linear models over multimodal signals + LLM-inferred similarity + structured QA‑extracted metrics.
+
+### 👁️ Computer Vision (Production)
+
+* **Merchant onboarding document verification**: custom detection (**~98% mAP**) + resemblance (**~97% F1**) + OCR parsing (**~95%**) + containerized FastAPI + Jenkins CI/CD + Airflow retraining.
+* **Real-time face recognition**: multi-camera streams + edge deployment (Jetson Nano) + improved fairness via fine‑tuning → **99.5%** on custom test set; supported web onboarding (TensorFlow.js).
+* **Intrusion detection**: pedestrian trespass over polygon boundary + panel visualization.
+* **Spoof detection**: eye-blink detection integrated into Android (TFLite + Kotlin logic) → **>99%** on video samples.
+* **Image quality gate** for NID: clarity/color/resemblance/crop checks using clustering & z‑score thresholding → saved **~400 hours** on **200K** images.
+
+### 📈 Data Engineering / Analytics
+
+* **Unified customer profiles** pipeline: MySQL + Mongo logs (100M rows/month) → BigQuery using Dask/concurrency/indexing; **6×–30×** faster phases.
+* **Geospatial route optimization**: automated merchant scan + optimized routes → saved **hundreds of man-hours** and **~$500–$700 per area**.
+* **Fraud detection**: geospatial + name manipulation alerts integrated with CRM.
+* **AutoML forecasting + Vertex AI MLOps**: daily/hourly transaction forecasts + Looker dashboards → **~7%** usage uplift in campaigns (A/B tested).
+
+---
+
+## 💼 Experience (selected)
+
+<details>
+<summary><b>Astute 360 Corp (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
+
+* Built and deployed **resume retrieval chatbot** + **LLM-based parser** with Pinecone vector store.
+* Trained **multimodal model** on resume images/text with **CLIP loss** + **LoRA/QLoRA**.
+* Developed resume segmentation + ranking based on multimodal embeddings and LLM-derived signals.
+
+</details>
+
+<details>
+<summary><b>Ascend Performance Materials (Texas, USA) — Generative AI Data Scientist (C2C)</b> · Mar 2025 – Sep 2025</summary>
+
+* Deployed **SharePoint** and **Dynamics 365** **agentic RAG** with Custom GPT actions + Azure Functions.
+* Built pipelines for **monthly research/patent discovery**, **ChatGPT churn analytics**, and **Rapid7 log archiving**.
+
+</details>
+
+<details>
+<summary><b>SSL Wireless (Dhaka, Bangladesh) — Senior Data Scientist</b> · Apr 2020 – Mar 2024</summary>
+
+* Led production CV systems: **document verification**, **face recognition**, **intrusion detection**, **spoof detection**, **face verification**.
+* Shipped Bangla **ASR** + **NER** services to production (FastAPI/Docker/Cloud Run).
+* Built **Airflow MLOps** pipelines + BigQuery warehousing + Looker monitoring.
+* Engineered distributed **100M+ rows/month** pipelines and analytics foundations.
+
+</details>
+
+<details>
+<summary><b>Learners & Yearners (Dhaka, Bangladesh) — Data Scientist</b> · Jan 2017 – Mar 2020</summary>
+
+* Built ML courses, repos, slides, and lecture content.
+* Created a Python package with low-level ML algorithm implementations (DT, KNN, K-Means).
+* Delivered a 2‑month data science bootcamp (10–15 students).
+
+</details>
+
+<details>
+<summary><b>Southeast Bank Limited — Junior Data Scientist</b> · May 2016 – Aug 2016</summary>
+
+* Built an OCR system to convert raw bank documents into text documents.
+
+</details>
+
+<details>
+<summary><b>Insight Robotics (Hong Kong) — Software Engineering Intern (AI/ML)</b> · Nov 2015 – Jan 2016</summary>
+
+* Developed image-based smoke detection algorithm, reducing false alarms and improving detection.
+
+</details>
+
+---
+
+## 🎓 Education
+
+**University College London (UCL)** — **MEng (Integrated 4‑year Master’s), Electronic & Electrical Engineering** (2011–2015)
+
+* **First Class Honours**; First class results across all 4 years
+* **2014 UROS Studentship** (top undergraduates in Engineering Faculty)
+* Degree certificate: **[Link](YOUR_DEGREE_CERTIFICATE_LINK)**
+
+---
+
+## 📜 Certifications (Coursera)
+
+* Deep Learning Specialization (5 courses) — **[Link](YOUR_COURSERA_LINK)**
+* Machine Learning Specialization (4 courses) — **[Link](YOUR_COURSERA_LINK)**
+* Data Engineering, Big Data, and ML on GCP (5 courses) — **[Link](YOUR_COURSERA_LINK)**
+* Python Specialization (5 courses) — **[Link](YOUR_COURSERA_LINK)**
+
+---
+
+## 🧑‍🏫 Teaching & Mentorship
+
+* Built ML curriculum + code repos + slides + recorded lectures.
+* Mentored and led data scientists (Senior role since Jan 2022 at SSL Wireless).
+
+---
+
+## 📌 Pinned (edit these once your repos are public)
+
+> Replace the placeholders with your actual repositories.
+
+* 🔥 **agentic-rag-enterprise** — Custom GPT Actions + Azure Functions middleware for SharePoint/Dynamics 365
+* 🧾 **resume-llm-parser** — OCR + LLM extraction + vector DB for resume retrieval/chat
+* 👁️ **doc-verification-saas** — detection + OCR + resemblance checks + FastAPI + CI/CD
+* 🧠 **bangla-asr-ner** — Bangla speech-to-text + NER pipeline (production)
+* 🧱 **mlops-airflow-vertex** — automated retraining + forecasting + dashboards
+* 🌍 **geospatial-route-optimizer** — merchant scanning + shortest route planning
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+
+</div>
+
+---
+
+## 🤝 Let’s connect
+
+* 📫 Email: **[rahmanitrat@gmail.com](mailto:rahmanitrat@gmail.com)**
+* 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+* 🧩 Portfolio: **YOUR_PORTFOLIO_URL**
+* ⭐ Recommendations: **YOUR_RECOMMENDATIONS_URL**
+
+---
+
+### 🔎 Keywords
+
+`Computer Vision` · `NLP` · `LLM` · `GenAI` · `Agentic RAG` · `MLOps` · `FastAPI` · `Docker` · `Airflow` · `BigQuery` · `GCP` · `Azure`
