@@ -15,7 +15,7 @@ Then edit the placeholder links (LinkedIn/Portfolio/Recommendations) and the pin
 
 <!-- Optional (public): <img src="https://img.shields.io/badge/Phone-832--670--1119-informational?style=flat&logo=phone" /> -->
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="YOUR_RECOMMENDATIONS_URL"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a> <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" /></a>
+<a href="http://www.linkedin.com/in/itratrahman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="https://docs.google.com/document/d/1oNbLlHdMvmbokG68S_eV-a0iEZwsJL6AnEls6lPbZVE/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="https://www.linkedin.com/in/itratrahman/details/recommendations/"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a> <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" /></a>
 
 </div>
 
