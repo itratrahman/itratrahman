@@ -66,8 +66,6 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 
 ## 🏗️ Featured builds
 
-> **Tip:** Link each bullet to a repo (or case study page) once you publish them.
-
 ### 🤖 Enterprise GenAI / Agentic RAG
 
 * **SharePoint RAG agent** using **Custom GPT + Actions + Azure Functions** middleware: document search (Graph API) + grounded extraction + answers → **5×–10×** faster literature review.
