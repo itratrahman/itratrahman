@@ -1,20 +1,12 @@
-<!--
-Hi Itrat — copy/paste this into a repo named exactly: ItratRahman/ItratRahman (or your GitHub username/username)
-Then edit the placeholder links (LinkedIn/Portfolio/Recommendations) and the pinned repos section.
--->
-
 <div align="center">
 
 # ITRAT RAHMAN
 
-**Senior AI Engineer / Data Scientist (9+ yrs)** · **Computer Vision** · **NLP/LLMs/GenAI** · **Agentic RAG** · **MLOps & Cloud**
+**Senior AI Engineer / Data Scientist (9+ yrs)** · **Computer Vision** · **NLP/LLMs/GenAI** · **Agentic AI** · **MLOps & Cloud**
 
 📍 Texas, USA · ✈️ Open to relocate anywhere in the US · 🛂 Visa: **H‑1B** (open to **C2C / H1B transfer**)
 
 <a href="mailto:rahmanitrat@gmail.com"><img src="https://img.shields.io/badge/Email-rahmanitrat%40gmail.com-informational?style=flat&logo=gmail" /></a>
-
-<!-- Optional (public): <img src="https://img.shields.io/badge/Phone-832--670--1119-informational?style=flat&logo=phone" /> -->
-
 <a href="http://www.linkedin.com/in/itratrahman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="https://docs.google.com/document/d/1oNbLlHdMvmbokG68S_eV-a0iEZwsJL6AnEls6lPbZVE/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="https://www.linkedin.com/in/itratrahman/details/recommendations/"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a>
 
 </div>
@@ -23,24 +15,24 @@ Then edit the placeholder links (LinkedIn/Portfolio/Recommendations) and the pin
 
 ## 🚀 What I do
 
-I build **production AI systems** end‑to‑end — from data pipelines and model training to **containerized APIs** and **monitoring dashboards**.
+I am a Senior AI Engineer/Data Scientist with over 9 years of technical experience. I build **production AI systems** end‑to‑end — from transforming pet projects into startup & SAAS products to pitching products in client meetings.
 
-* **GenAI / LLM / Agentic RAG**: Custom GPTs + Actions, NLQ→OData, document search via Graph API, automated analytics + QA on enterprise data.
-* **Computer Vision**: Document verification, face recognition/verification, intrusion detection, spoof detection, OCR/parsing at scale.
-* **NLP (Bangla)**: Production‑grade **ASR** + **NER** pipelines with strong real‑world accuracy.
-* **MLOps / Data Engineering**: CI/CD (Jenkins), orchestration (Airflow), ML lifecycle automation (MLflow/Vertex AI), BigQuery-first analytics.
+* **GenAI / LLM / Agentic AI**: Built and deployed RAG resume-matching chatbots, SharePoint RAG agents using Custom GPT + GPT Actions, and Dynamics 365 CRM RAG agents that translate NL questions into OData queries.
+* **Computer Vision**: Expertise in document OCR/parsing/inference, facial recognition, object detection, and video generation.
+* **NLP & ASR**: Developed Bengali ASR for merchant audio and Bengali NER to extract products/prices/quantities with 95%+ accuracy.
+* **MLOps / Data Engineering**: Automating ML lifecycle using MLflow, orchestrating DataOps & MLOps pipelines using Airflow, and automating deployment using CI/CD pipelines via Jenkins.
 
 ---
 
 ## 🧠 Highlights (numbers that matter)
 
-* **95%+** Bengali **NER** entity extraction accuracy.
-* Bengali **ASR** achieved **2.63 Levenshtein Distance** on a merchant/field‑force speech corpus.
-* **Document verification**: custom object detection **~98% mAP**, resemblance check **~97% F1**, OCR parsing **~95%**.
-* **Face recognition**: improved custom test accuracy to **99.5%**; deployed multi-camera real-time pipeline.
-* **Enterprise GenAI**: boosted research productivity **5×–10×** (SharePoint literature review + SOP QA) and ad‑hoc analytics productivity **1.5×–2×** (Dynamics 365).
-* **Big data pipelines**: processed **100M+ rows/month**, speeding phases **6×–30×** using Dask/concurrency/indexing.
-* **Forecasting + experimentation**: drove **~7%** transaction uplift during campaign seasons (validated via A/B testing).
+* **99% extraction accuracy** for LLM-based resume parsing and structured field extraction.
+* **99.5% accuracy** on custom test sets for fine-tuned face recognition models.
+* **98% mAP** for document-scanning object detection models and **97% F1** for resemblance models.
+* **5x–10x faster** literature review for R&D stakeholders via SharePoint RAG agents.
+* **6x–30x acceleration** in data processing phases for distributed pipelines processing 100M log rows/month.
+* **~400 hours saved** across 200K images using CV quality checks and clustering/z-score threshold tuning.
+* **7% usage increase** during campaign seasons through AutoML forecasting and A/B testing.
 
 ---
 
@@ -50,15 +42,15 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 
 **Languages** <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" /> <img src="https://img.shields.io/badge/SQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/Bash-333?style=flat&logo=gnu-bash" />
 
-**ML / DL** <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch" /> <img src="https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow" /> <img src="https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface" /> <img src="https://img.shields.io/badge/spaCy-333?style=flat&logo=spacy" /> <img src="https://img.shields.io/badge/scikit--learn-333?style=flat&logo=scikitlearn" />
+**ML / DL** <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch" /> <img src="https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow" /> <img src="https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface" /> <img src="https://img.shields.io/badge/Scipy-333?style=flat&logo=scipy" /> <img src="https://img.shields.io/badge/scikit--learn-333?style=flat&logo=scikitlearn" />
 
-**GenAI / Agents** <img src="https://img.shields.io/badge/RAG-333?style=flat" /> <img src="https://img.shields.io/badge/LangChain-333?style=flat" /> <img src="https://img.shields.io/badge/LangGraph-333?style=flat" /> <img src="https://img.shields.io/badge/Custom%20GPT%20%2B%20Actions-333?style=flat" />
+**GenAI / Agents** <img src="https://img.shields.io/badge/LLM-333?style=flat" /> <img src="https://img.shields.io/badge/LangChain-333?style=flat" /> <img src="https://img.shields.io/badge/LangGraph-333?style=flat" /> <img src="https://img.shields.io/badge/Llama_Index-333?style=flat" /> <img src="https://img.shields.io/badge/MCP-333?style=flat" />
 
 **MLOps / Infra** <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/FastAPI-333?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/MLflow-333?style=flat" /> <img src="https://img.shields.io/badge/Airflow-333?style=flat&logo=apache-airflow" /> <img src="https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins" />
 
-**Data / DB / Vector** <img src="https://img.shields.io/badge/BigQuery-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/Pinecone-333?style=flat" /> <img src="https://img.shields.io/badge/ChromaDB-333?style=flat" /> <img src="https://img.shields.io/badge/Weaviate-333?style=flat" />
+**Data / DB / Vector** <img src="https://img.shields.io/badge/BigQuery-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/Pinecone-333?style=flat" /> <img src="https://img.shields.io/badge/Chroma_DB-333?style=flat" /> <img src="https://img.shields.io/badge/Weaviate-333?style=flat" />
 
-**Cloud** <img src="https://img.shields.io/badge/GCP-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure" /> <img src="https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws" />
+**Cloud** <img src="https://img.shields.io/badge/GCP-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws" /> <img src="https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure" />
 
 </div>
 
@@ -67,85 +59,59 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 ## 🏗️ Featured builds
 
 ### 🤖 Enterprise GenAI / Agentic RAG
-
-* **SharePoint RAG agent** using **Custom GPT + Actions + Azure Functions** middleware: document search (Graph API) + grounded extraction + answers → **5×–10×** faster literature review.
-* **Dynamics 365 CRM RAG agent**: **NLQ → OData** via Custom GPT prompts + Dataverse API retrieval + auto-merge + LLM QA (code interpreter) → **1.5×–2×** faster ad‑hoc analytics.
-* **SOP QA GPT** for safety-critical operational files: quick, contextual answers to high‑risk workers’ queries.
-* **Automated monthly research pipeline**: journal + patent search (SERPAPI + semantic search) → curated top findings emailed to stakeholders.
-* **ChatGPT workspace logs → Rapid7**: secure daily + historical backfills for compliance/audit archiving and analytics.
+* **SharePoint RAG Agent**: Custom GPT + GPT Actions with Azure Functions middleware for MS Graph search and targeted extraction.
+* **Dynamics 365 CRM Agent**: Translates NL questions into OData queries; retrieves via Dataverse API and runs QA using OpenAI + code interpreter.
+* **Resume-Matching Chatbot**: RAG system that retrieves best-fit resumes from user prompts and supports multi-turn conversation.
+* **Spreadsheet-Analysis GPT**: Generates themed business reports with findings + recommendations, improving analyst throughput 5x–10x.
+* **Monthly Research Automation**: Monthly journal + patent scouting using SERPAPI + semantic/LLM search, reducing manual search workload by ~50%.
 
 ### 🧾 CV / Document Intelligence
-
-* **Resume parser + retrieval chatbot**: OCR (Vision API) + cleaning + extraction (**~99%** field accuracy) + Pinecone vector store; chatbot reached **~95%** accuracy via LLM‑assisted evaluation.
-* **Multimodal resume model** (CLIP-style contrastive) + **LoRA/QLoRA** fine‑tuning for high‑impact downstream tasks; also used for **resume-type segmentation** via hierarchical clustering over embeddings.
-* **Resume ranking system**: linear models over multimodal signals + LLM-inferred similarity + structured QA‑extracted metrics.
+* **LLM Resume Parser**: Extracted and structured key resume fields with 99% accuracy using GCP Vision API and LangChain.
+* **Multimodal Resume Model**: Trained using CLIP-style contrastive loss and LoRA/QLoRA fine-tuning for embedding-based clustering and ranking.
+* **Resume Ranking Model**: Linear methods over multimodal inputs + LLM-inferred similarity + LLM-extracted QA metrics.
+* **EU Driving License Verification**: Production-ready 3-stage pipeline (EfficientNet-B0 + PaddleOCR + RetinaFace) with 95% end-to-end accuracy.
 
 ### 👁️ Computer Vision (Production)
-
-* **Merchant onboarding document verification**: custom detection (**~98% mAP**) + resemblance (**~97% F1**) + OCR parsing (**~95%**) + containerized FastAPI + Jenkins CI/CD + Airflow retraining.
-* **Real-time face recognition**: multi-camera streams + edge deployment (Jetson Nano) + improved fairness via fine‑tuning → **99.5%** on custom test set; supported web onboarding (TensorFlow.js).
-* **Intrusion detection**: pedestrian trespass over polygon boundary + panel visualization.
-* **Spoof detection**: eye-blink detection integrated into Android (TFLite + Kotlin logic) → **>99%** on video samples.
-* **Image quality gate** for NID: clarity/color/resemblance/crop checks using clustering & z‑score thresholding → saved **~400 hours** on **200K** images.
+* **AI Document Verification System**: Improved merchant onboarding efficiency by 40% using TensorFlow, PyTorch, and OpenCV.
+* **Real-Time Face Recognition**: Multi-face platform for camera streams with edge components on Jetson Nano; reached 99.5% accuracy.
+* **Intrusion Detection System**: Pedestrian detector flagging polygon boundary crossings, deployed on Jetson Nano.
+* **Liveness/Spoof Detection**: Blink-based detection integrated into Android via TensorFlow Lite, achieving >99% accuracy.
 
 ### 📈 Data Engineering / Analytics
-
-* **Unified customer profiles** pipeline: MySQL + Mongo logs (100M rows/month) → BigQuery using Dask/concurrency/indexing; **6×–30×** faster phases.
-* **Geospatial route optimization**: automated merchant scan + optimized routes → saved **hundreds of man-hours** and **~$500–$700 per area**.
-* **Fraud detection**: geospatial + name manipulation alerts integrated with CRM.
-* **AutoML forecasting + Vertex AI MLOps**: daily/hourly transaction forecasts + Looker dashboards → **~7%** usage uplift in campaigns (A/B tested).
+* **Distributed Log Pipeline**: Processing 100M log rows/month (MySQL → MongoDB → BigQuery) using Dask, concurrency, and indexing.
+* **AutoML Forecasting**: Hourly/daily payment gateway volumes using Vertex AI + BigQuery.
+* **Route Optimization**: saving ~$500–$700 per area and hundreds of manual hours using Google Maps location data.
+* **Fraud Detection Service**: MySQL geospatial search + FastAPI to flag merchant name/location manipulation in near real time.
 
 ---
 
-## 💼 Experience (selected)
+## 💼 Professional Experience
 
 <details>
-<summary><b>Astute 360 Corp (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
+<summary><b>Astute 360 Corporation (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
 
-* Built and deployed **resume retrieval chatbot** + **LLM-based parser** with Pinecone vector store.
-* Trained **multimodal model** on resume images/text with **CLIP loss** + **LoRA/QLoRA**.
-* Developed resume segmentation + ranking based on multimodal embeddings and LLM-derived signals.
+* Built and deployed a RAG resume-matching chatbot and an LLM-based resume parser with 99% extraction accuracy.
+* Trained multimodal models on resume images + text using CLIP-style contrastive loss and LoRA/QLoRA fine-tuning.
+* Developed resume ranking and clustering models via hierarchical clustering on multimodal embeddings.
 
 </details>
 
 <details>
 <summary><b>Ascend Performance Materials (Texas, USA) — Generative AI Data Scientist (C2C)</b> · Mar 2025 – Sep 2025</summary>
 
-* Deployed **SharePoint** and **Dynamics 365** **agentic RAG** with Custom GPT actions + Azure Functions.
-* Built pipelines for **monthly research/patent discovery**, **ChatGPT churn analytics**, and **Rapid7 log archiving**.
+* Shipped SharePoint and Dynamics 365 CRM RAG agents using Custom GPT, GPT Actions, and Azure Functions.
+* Built spreadsheet-analysis and SOP QA Custom GPTs to improve analyst throughput and operational safety.
+* Automated monthly journal/patent scouting and implemented ChatGPT user-churn detection from usage logs.
 
 </details>
 
 <details>
 <summary><b>SSL Wireless (Dhaka, Bangladesh) — Senior Data Scientist</b> · Apr 2020 – Mar 2024</summary>
 
-* Led production CV systems: **document verification**, **face recognition**, **intrusion detection**, **spoof detection**, **face verification**.
-* Shipped Bangla **ASR** + **NER** services to production (FastAPI/Docker/Cloud Run).
-* Built **Airflow MLOps** pipelines + BigQuery warehousing + Looker monitoring.
-* Engineered distributed **100M+ rows/month** pipelines and analytics foundations.
-
-</details>
-
-<details>
-<summary><b>Learners & Yearners (Dhaka, Bangladesh) — Data Scientist</b> · Jan 2017 – Mar 2020</summary>
-
-* Built ML courses, repos, slides, and lecture content.
-* Created a Python package with low-level ML algorithm implementations (DT, KNN, K-Means).
-* Delivered a 2‑month data science bootcamp (10–15 students).
-
-</details>
-
-<details>
-<summary><b>Southeast Bank Limited — Junior Data Scientist</b> · May 2016 – Aug 2016</summary>
-
-* Built an OCR system to convert raw bank documents into text documents.
-
-</details>
-
-<details>
-<summary><b>Insight Robotics (Hong Kong) — Software Engineering Intern (AI/ML)</b> · Nov 2015 – Jan 2016</summary>
-
-* Developed image-based smoke detection algorithm, reducing false alarms and improving detection.
+* Led and managed the next generation of data scientists; promoted to Senior role in Jan 2022.
+* Built production systems for AI document verification, real-time face recognition, and intrusion detection.
+* Deployed Bengali ASR and NER models, achieving 2.63 Levenshtein distance and 95%+ accuracy respectively.
+* Engineered distributed pipelines processing 100M log rows/month and automated route optimization.
 
 </details>
 
@@ -155,17 +121,18 @@ I build **production AI systems** end‑to‑end — from data pipelines and mod
 
 **University College London (UCL)** — **MEng (Integrated 4‑year Master’s), Electronic & Electrical Engineering** (2011–2015)
 
-* **First Class Honours**; First class results across all 4 years
-* **2014 UROS Studentship** (top undergraduates in Engineering Faculty)
+* **First Class Honours**; First class results obtained in all 4 years.
+* **2014 UROS Studentship** (award given to top undergraduates from UCL’s Engineering Faculty).
 
 ---
 
 ## 🤝 Let’s connect
 
 * 📫 Email: **[rahmanitrat@gmail.com](mailto:rahmanitrat@gmail.com)**
-* 💼 LinkedIn: **http://www.linkedin.com/in/itratrahman**
+* 💼 LinkedIn: **[itratrahman](http://www.linkedin.com/in/itratrahman)**
+
 ---
 
 ### 🔎 Keywords
 
-`Computer Vision` · `NLP` · `LLM` · `GenAI` · `Agentic RAG` · `MLOps` · `FastAPI` · `Docker` · `Airflow` · `BigQuery` · `GCP` · `Azure`
+`Computer Vision` · `NLP` · `LLM` · `GenAI` · `Agentic AI` · `MLOps` · `FastAPI` · `Docker` · `Airflow` · `BigQuery` · `GCP` · `Azure` · `H-1B`
