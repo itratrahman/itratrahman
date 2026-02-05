@@ -36,23 +36,40 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 
 ---
 
-## 🧰 Tech stack
+## 🧰 Skills & Tech Stack
 
-<div align="center">
+### 📊 Data Science / Machine Learning
+`Linear Algebra` · `Statistics` · `Algorithms & Data Structures` · `Data Visualisation` · `A/B Testing` · `Classical ML` · `Deep Learning` · `SQL` · `Churn Analysis` · `Time Series Forecasting` · `NLP` · `Named Entity Recognition`
 
-**Languages** <img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" /> <img src="https://img.shields.io/badge/SQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/Bash-333?style=flat&logo=gnu-bash" />
+### 🤖 GenAI / AI Agents
+`Embeddings` · `Semantic Search` · `Transformer Models` · `LLM` · `Diffusion` · `RAG` · `Vector Database` · `GAN` · `GenAI` · `Agents` · `Chatbot` · `Machine Translation` · `Speech Recognition`
 
-**ML / DL** <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch" /> <img src="https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow" /> <img src="https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface" /> <img src="https://img.shields.io/badge/Scipy-333?style=flat&logo=scipy" /> <img src="https://img.shields.io/badge/scikit--learn-333?style=flat&logo=scikitlearn" />
+### 👁️ Computer Vision
+`Binary Morphology` · `Perspective/Affine Transformation` · `Edge Detection` · `OCR` · `Object Segmentation` · `Object Detection` · `Facial Recognition` · `Video Generation`
 
-**GenAI / Agents** <img src="https://img.shields.io/badge/LLM-333?style=flat" /> <img src="https://img.shields.io/badge/LangChain-333?style=flat" /> <img src="https://img.shields.io/badge/LangGraph-333?style=flat" /> <img src="https://img.shields.io/badge/Llama_Index-333?style=flat" /> <img src="https://img.shields.io/badge/MCP-333?style=flat" />
+### 📦 Data Science Packages / Tools
+<img src="https://img.shields.io/badge/Python-333?style=flat&logo=python" /> <img src="https://img.shields.io/badge/NumPy-333?style=flat&logo=numpy" /> <img src="https://img.shields.io/badge/pandas-333?style=flat&logo=pandas" /> <img src="https://img.shields.io/badge/SciPy-333?style=flat&logo=scipy" /> <img src="https://img.shields.io/badge/Matplotlib-333?style=flat" /> <img src="https://img.shields.io/badge/Seaborn-333?style=flat" /> <img src="https://img.shields.io/badge/Bokeh-333?style=flat" /> <img src="https://img.shields.io/badge/Folium-333?style=flat" /> <img src="https://img.shields.io/badge/scikit--learn-333?style=flat&logo=scikitlearn" /> <img src="https://img.shields.io/badge/XGBoost-333?style=flat" /> <img src="https://img.shields.io/badge/NLTK-333?style=flat" /> <img src="https://img.shields.io/badge/PySpark-333?style=flat&logo=apachespark" /> <img src="https://img.shields.io/badge/Dask-333?style=flat" /> <img src="https://img.shields.io/badge/Looker_Studio-333?style=flat&logo=looker" /> <img src="https://img.shields.io/badge/Tableau-333?style=flat&logo=tableau" />
 
-**MLOps / Infra** <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/FastAPI-333?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/MLflow-333?style=flat" /> <img src="https://img.shields.io/badge/Airflow-333?style=flat&logo=apache-airflow" /> <img src="https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins" />
+### 🧠 AI Frameworks / Tools
+<img src="https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface" /> <img src="https://img.shields.io/badge/spaCy-333?style=flat&logo=spacy" /> <img src="https://img.shields.io/badge/TensorFlow-333?style=flat&logo=tensorflow" /> <img src="https://img.shields.io/badge/Keras-333?style=flat&logo=keras" /> <img src="https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch" /> <img src="https://img.shields.io/badge/Optuna-333?style=flat" /> <img src="https://img.shields.io/badge/Keras_Tuner-333?style=flat" /> <img src="https://img.shields.io/badge/OpenAI_API-333?style=flat&logo=openai" /> <img src="https://img.shields.io/badge/ChatGPT-333?style=flat&logo=openai" /> <img src="https://img.shields.io/badge/GPT_Actions-333?style=flat" /> <img src="https://img.shields.io/badge/LangChain-333?style=flat" /> <img src="https://img.shields.io/badge/LangGraph-333?style=flat" /> <img src="https://img.shields.io/badge/Llama-333?style=flat&logo=meta" /> <img src="https://img.shields.io/badge/LlamaIndex-333?style=flat" /> <img src="https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv" /> <img src="https://img.shields.io/badge/Cursor_AI-333?style=flat" /> <img src="https://img.shields.io/badge/Copilot-333?style=flat&logo=github" />
 
-**Data / DB / Vector** <img src="https://img.shields.io/badge/BigQuery-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/Pinecone-333?style=flat" /> <img src="https://img.shields.io/badge/Chroma_DB-333?style=flat" /> <img src="https://img.shields.io/badge/Weaviate-333?style=flat" />
+### 🛠️ Development Tools
+<img src="https://img.shields.io/badge/Git-333?style=flat&logo=git" /> <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Linux-333?style=flat&logo=linux" /> <img src="https://img.shields.io/badge/Bash-333?style=flat&logo=gnu-bash" /> <img src="https://img.shields.io/badge/Cron-333?style=flat" /> <img src="https://img.shields.io/badge/Flask-333?style=flat&logo=flask" /> <img src="https://img.shields.io/badge/FastAPI-333?style=flat&logo=fastapi" /> <img src="https://img.shields.io/badge/Docker-333?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/Docker_Compose-333?style=flat&logo=docker" /> <img src="https://img.shields.io/badge/Airflow-333?style=flat&logo=apache-airflow" /> <img src="https://img.shields.io/badge/MLflow-333?style=flat" /> <img src="https://img.shields.io/badge/CI/CD-333?style=flat" /> <img src="https://img.shields.io/badge/MCP-333?style=flat" />
 
-**Cloud** <img src="https://img.shields.io/badge/GCP-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws" /> <img src="https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure" />
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/PostgreSQL-333?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/MongoDB-333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/BigQuery-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/ChromaDB-333?style=flat" /> <img src="https://img.shields.io/badge/Pinecone-333?style=flat" /> <img src="https://img.shields.io/badge/Weaviate-333?style=flat" />
 
-</div>
+### ☁️ Cloud Computing / Data Engineering
+<img src="https://img.shields.io/badge/GCP-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/AWS-333?style=flat&logo=amazonaws" /> <img src="https://img.shields.io/badge/Azure-333?style=flat&logo=microsoftazure" /> <img src="https://img.shields.io/badge/Vertex_AI-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/SageMaker-333?style=flat&logo=amazonaws" /> <img src="https://img.shields.io/badge/Apache_Spark-333?style=flat&logo=apachespark" /> <img src="https://img.shields.io/badge/Dataproc-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/Cloud_Functions-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/Cloud_Run-333?style=flat&logo=googlecloud" /> <img src="https://img.shields.io/badge/Azure_Functions-333?style=flat&logo=microsoftazure" /> <img src="https://img.shields.io/badge/AWS_Lambda-333?style=flat&logo=awslambda" />
+
+### ⚙️ MLOps / DataOps
+`MLflow` · `Airflow` · `Jenkins CI/CD` · `ML Lifecycle Automation` · `DataOps Pipeline Orchestration`
+
+### 💡 Power Skills
+`English & Bengali Communication` · `PPT Presentation` · `Client & Stakeholder Communication` · `Team Management` · `Project Management (Jira)`
+
+### 🏭 Domain Knowledge
+`Fintech` · `SMS` · `Telecom` · `Facial Image` · `Pedestrian Image` · `Document OCR/Parsing/Inference` · `Merchant Onboarding` · `eKYC` · `CRM` · `Chemical Industry` · `Research & Patent Literature` · `Robotics` · `Embedded Systems`
 
 ---
 
