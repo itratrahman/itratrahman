@@ -7,7 +7,7 @@
 📍 Texas, USA · ✈️ Open to relocate anywhere in the US · 🛂 Visa: **H‑1B** (open to **C2C / H1B transfer**)
 
 <a href="mailto:rahmanitrat@gmail.com"><img src="https://img.shields.io/badge/Email-rahmanitrat%40gmail.com-informational?style=flat&logo=gmail" /></a>
-<a href="http://www.linkedin.com/in/itratrahman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="https://docs.google.com/document/d/1oNbLlHdMvmbokG68S_eV-a0iEZwsJL6AnEls6lPbZVE/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="https://www.linkedin.com/in/itratrahman/details/recommendations/"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a>
+<a href="http://www.linkedin.com/in/itratrahman"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a> <a href="https://itratrahman.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-success?style=flat&logo=google-chrome" /></a> <a href="https://www.linkedin.com/in/itratrahman/details/recommendations/"><img src="https://img.shields.io/badge/Recommendations-Read-yellow?style=flat&logo=readme" /></a>
 
 </div>
 
@@ -15,24 +15,21 @@
 
 ## 🚀 What I do
 
-I am a Senior AI Engineer/Data Scientist with over 9 years of technical experience. I build **production AI systems** end‑to‑end — from transforming pet projects into startup & SAAS products to pitching products in client meetings.
-
-* **GenAI / LLM / Agentic AI**: Built and deployed RAG resume-matching chatbots, SharePoint RAG agents using Custom GPT + GPT Actions, and Dynamics 365 CRM RAG agents that translate NL questions into OData queries.
-* **Computer Vision**: Expertise in document OCR/parsing/inference, facial recognition, object detection, and video generation.
-* **NLP & ASR**: Developed Bengali ASR for merchant audio and Bengali NER to extract products/prices/quantities with 95%+ accuracy.
-* **MLOps / Data Engineering**: Automating ML lifecycle using MLflow, orchestrating DataOps & MLOps pipelines using Airflow, and automating deployment using CI/CD pipelines via Jenkins.
+I am a Senior AI Engineer/Data Scientist with over 9 years of technical experience and expertise  in Computer Vision, NLP, LLM, GenAI, Chatbot, Agentic AI, MLOps, Cloud Technologies, Big Data Analytics, and Data Science. I have extensive AI/Data product development experience; transformed pet projects into startup and SaaS products; wore multiple hats and worked beyond corporate boundaries for product launches, and attended client meetings to pitch products.
 
 ---
 
-## 🧠 Highlights (numbers that matter)
+## 📋 Professional Summary
 
-* **99% extraction accuracy** for LLM-based resume parsing and structured field extraction.
-* **99.5% accuracy** on custom test sets for fine-tuned face recognition models.
-* **98% mAP** for document-scanning object detection models and **97% F1** for resemblance models.
-* **5x–10x faster** literature review for R&D stakeholders via SharePoint RAG agents.
-* **6x–30x acceleration** in data processing phases for distributed pipelines processing 100M log rows/month.
-* **~400 hours saved** across 200K images using CV quality checks and clustering/z-score threshold tuning.
-* **7% usage increase** during campaign seasons through AutoML forecasting and A/B testing.
+* 🎯 **Senior AI Engineer/Data Scientist** with over 9 years of technical experience with expertise in Computer Vision, NLP, LLM, GenAI, Chatbot, Agentic AI, MLOps, Cloud Technologies, Big Data Analytics, and Data Science
+* 🗣️ **Natural Language Processing**: Engineered production-grade NER and Bengali ASR models achieving 95% entity extraction accuracy and industry-leading low error rates (2.63 LD) for automated voice input
+* 🤖 **GenAI & LLM & Agentic AI**: Architected RAG-based agentic workflows and Custom GPTs for SharePoint/CRM that improved enterprise research and analytics productivity by 5x–10x through automated document parsing, NLQ interfaces etc.
+* 👁️ **Computer Vision**: Deployed scalable document & biometric verification and surveillance systems (99.5% accuracy), optimizing deep learning models for real-time inference on both servers and edge devices.
+* ⚙️ **MLOps**: Established automated CI/CD and continuous retraining pipelines using Airflow and Jenkins, ensuring seamless deployment, versioning, and monitoring of deep learning models with zero downtime.
+* 📊 **Data Science**: Delivered actionable business value through AutoML forecasting and A/B testing that drove a 7% increase in transaction volume, alongside geospatial optimizations that significantly reduced operational logistics costs.
+* 🔧 **Data Engineering**: Built high-throughput distributed pipelines processing 100M+ monthly records, accelerating data processing speeds by up to 30x.
+* ☁️ **Cloud Computing**: Designed serverless AI architectures on GCP and Azure, utilizing Cloud Run and Azure Functions to deploy scalable microservices and secure middleware for enterprise data integration.
+* 🚀 **Extensive AI/Data product development experience**; transformed pet projects into startup & SAAS products; wore multiple hats and worked beyond corporate boundaries for product launches, attended client meetings to pitch products
 
 ---
 
@@ -70,35 +67,6 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 
 ### 🏭 Domain Knowledge
 `Fintech` · `SMS` · `Telecom` · `Facial Image` · `Pedestrian Image` · `Document OCR/Parsing/Inference` · `Merchant Onboarding` · `eKYC` · `CRM` · `Chemical Industry` · `Research & Patent Literature` · `Robotics` · `Embedded Systems`
-
----
-
-## 🏗️ Featured builds
-
-### 🤖 Enterprise GenAI / Agentic RAG
-* **SharePoint RAG Agent**: Custom GPT + GPT Actions with Azure Functions middleware for MS Graph search and targeted extraction.
-* **Dynamics 365 CRM Agent**: Translates NL questions into OData queries; retrieves via Dataverse API and runs QA using OpenAI + code interpreter.
-* **Resume-Matching Chatbot**: RAG system that retrieves best-fit resumes from user prompts and supports multi-turn conversation.
-* **Spreadsheet-Analysis GPT**: Generates themed business reports with findings + recommendations, improving analyst throughput 5x–10x.
-* **Monthly Research Automation**: Monthly journal + patent scouting using SERPAPI + semantic/LLM search, reducing manual search workload by ~50%.
-
-### 🧾 CV / Document Intelligence
-* **LLM Resume Parser**: Extracted and structured key resume fields with 99% accuracy using GCP Vision API and LangChain.
-* **Multimodal Resume Model**: Trained using CLIP-style contrastive loss and LoRA/QLoRA fine-tuning for embedding-based clustering and ranking.
-* **Resume Ranking Model**: Linear methods over multimodal inputs + LLM-inferred similarity + LLM-extracted QA metrics.
-* **EU Driving License Verification**: Production-ready 3-stage pipeline (EfficientNet-B0 + PaddleOCR + RetinaFace) with 95% end-to-end accuracy.
-
-### 👁️ Computer Vision (Production)
-* **AI Document Verification System**: Improved merchant onboarding efficiency by 40% using TensorFlow, PyTorch, and OpenCV.
-* **Real-Time Face Recognition**: Multi-face platform for camera streams with edge components on Jetson Nano; reached 99.5% accuracy.
-* **Intrusion Detection System**: Pedestrian detector flagging polygon boundary crossings, deployed on Jetson Nano.
-* **Liveness/Spoof Detection**: Blink-based detection integrated into Android via TensorFlow Lite, achieving >99% accuracy.
-
-### 📈 Data Engineering / Analytics
-* **Distributed Log Pipeline**: Processing 100M log rows/month (MySQL → MongoDB → BigQuery) using Dask, concurrency, and indexing.
-* **AutoML Forecasting**: Hourly/daily payment gateway volumes using Vertex AI + BigQuery.
-* **Route Optimization**: saving ~$500–$700 per area and hundreds of manual hours using Google Maps location data.
-* **Fraud Detection Service**: MySQL geospatial search + FastAPI to flag merchant name/location manipulation in near real time.
 
 ---
 
