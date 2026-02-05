@@ -75,18 +75,24 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 <details>
 <summary><b>Astute 360 Corporation (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
 
-* Built and deployed a RAG resume-matching chatbot and an LLM-based resume parser with 99% extraction accuracy.
-* Trained multimodal models on resume images + text using CLIP-style contrastive loss and LoRA/QLoRA fine-tuning.
-* Developed resume ranking and clustering models via hierarchical clustering on multimodal embeddings.
+* Built and deployed a RAG-based agentic chatbot (GenAI, OpenAI, LangChain, LangGraph, EC2) that retrieves best-fit resumes from user prompts and supports multi-turn conversation, improving resume discovery speed and relevance. Developed a RAG ingestion pipeline that includes an LLM-based resume parser (GCP Vision API, LangChain) to extract and structure key resume fields with 99% extraction accuracy, storing documents and metadata in Pinecone for retrieval. Developed custom RAG retrieval policy using LangChain and implemented agentic flow using LangGraph. Implemented LLM-assisted evaluation for chatbot answer quality, achieving 95% accuracy on internal evaluation.
+* Trained a BERT model (Hugging Face, NVIDIA GPU) using TDSAE training scheme on the corpus of resume text to function as the embedder for the RAG vector search in the aforementioned chatbot. Orchestrated end-to-end retraining/hyperparameter optimization/export of the model using AWS SageMaker.
+* Trained a multimodal model (Hugging face, NVIDIA GPU) on resume images + text using CLIP-style contrastive loss and LoRA/QLoRA fine-tuning to enable downstream tasks such as embedding-based clustering and ranking.
+* Clustered resume "types" via hierarchical clustering on multimodal embeddings (content, layout aesthetics, applicant features) to support segmentation and analytics.
+* Developed a resume ranking model using linear methods over multimodal inputs + LLM-inferred similarity + LLM-extracted QA metrics to improve candidate ordering.
 
 </details>
 
 <details>
 <summary><b>Ascend Performance Materials (Texas, USA) — Generative AI Data Scientist (C2C)</b> · Mar 2025 – Sep 2025</summary>
 
-* Shipped SharePoint and Dynamics 365 CRM RAG agents using Custom GPT, GPT Actions, and Azure Functions.
-* Built spreadsheet-analysis and SOP QA Custom GPTs to improve analyst throughput and operational safety.
-* Automated monthly journal/patent scouting and implemented ChatGPT user-churn detection from usage logs.
+* Shipped a SharePoint RAG agent using Custom GPT + GPT Actions with Azure Functions middleware (MS Graph search → targeted extraction → response to GPT), driving 5x–10x faster literature review for R&D stakeholders.
+* Delivered a Dynamics 365 CRM RAG agent where Custom GPT translates NL questions into OData queries; Azure Functions retrieves via Dataverse API, merges results, and runs QA using OpenAI + code interpreter, improving ad-hoc analytics productivity 1.5x–2x.
+* Built a spreadsheet-analysis Custom GPT that generates themed business reports with findings + recommendations, improving analyst throughput 5x–10x.
+* Created a SOP QA Custom GPT over multi-department safety procedures to improve on-the-spot access to protocols for high-risk plant operations.
+* Automated monthly journal + patent scouting using SERPAPI + semantic/LLM search, emailing top findings and reducing manual literature search workload by ~50%.
+* Designed a ChatGPT user-churn detection method from usage logs (drop-off in last 75 days + minimum monthly messages); used statistical analysis to set thresholds and automated churn reporting via email.
+* Built a secure pipeline to export ChatGPT workspace conversation logs to Rapid7 (daily + backfills, chunked payload delivery to webhook) to support compliance/audit archiving and enable GenAI adoption analytics.
 
 </details>
 
@@ -94,9 +100,18 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 <summary><b>SSL Wireless (Dhaka, Bangladesh) — Senior Data Scientist</b> · Apr 2020 – Mar 2024</summary>
 
 * Led and managed the next generation of data scientists; promoted to Senior role in Jan 2022.
-* Built production systems for AI document verification, real-time face recognition, and intrusion detection.
-* Deployed Bengali ASR and NER models, achieving 2.63 Levenshtein distance and 95%+ accuracy respectively.
-* Engineered distributed pipelines processing 100M log rows/month and automated route optimization.
+* Built an AI document verification system (Computer Vision, TensorFlow, PyTorch, OpenCV, NVIDIA GPU) for online merchant onboarding, improving onboarding efficiency 40%; trained document-scanning object detection models (~98% mAP) and resemblance checking binary classification models (~97% F1). Built OCR-based field extraction/validation with ~95% accuracy, reducing manual checks and improving onboarding quality. Productionized APIs with FastAPI + Docker and Jenkins CI/CD for reliable releases; automated end-to-end retraining/export of binary classification models with Airflow and implemented inference logging (MongoDB → BigQuery) powering near-real-time Looker Studio monitoring. Packaged the verification stack into a SaaS offering; supported customer pitching and onboarded 2 clients.
+* Built a real-time multi-face recognition platform (Computer Vision, TensorFlow, OpenCV, FastAPI, Docker, NVIDIA GPU) for camera streams; fine-tuned face recognition model for underrepresented faces and reached 99.5% accuracy on a custom test set. Deployed edge components (video streaming + face detection) on Jetson Nano and partnered with the engineering team to deliver real-time notifications plus a facial registration app (TensorFlow.js) that registers varied face poses. Supported creation of a dedicated sister company/startup (SSL Sentinel); contributed to sales pitching and onboarded 8 clients.
+* Implemented an intrusion detection system (Computer Vision, TensorFlow, OpenCV, FastAPI, Docker, NVIDIA GPU) that flags pedestrians crossing polygon boundaries; deployed a pedestrian detector on Jetson Nano and collaborated on a full backend/frontend monitoring panel.
+* Trained and deployed Bengali ASR (GenAI, LLM, Hugging Face, FastAPI, Docker, GCP Cloud Run) for merchant audio from CRM, improving accuracy with augmentation and achieving 2.63 Levenshtein distance on field-force speech.
+* Built and deployed Bengali NER (spaCy) to extract products/prices/quantities with 95%+ accuracy, enabling structured downstream CRM workflows.
+* Built and deployed blink-based liveness/spoof detection and integrated into Android via TensorFlow Lite + Kotlin, achieving >99% accuracy on video samples.
+* Delivered a face verification service (Tensorflow, FastAPI, Docker, AWS Lambda) to confirm whether two photos belong to the same person, reaching 97% accuracy on a large photo-pair corpus.
+* Automated route optimization by pulling merchant locations (Google Maps) and generating short-distance routes, saving ~$500–$700 per area plus hundreds of manual hours.
+* Reduced manual NID image review by ~400 hours across 200K images using CV quality checks + clustering/z-score threshold tuning.
+* Built AutoML forecasting for hourly/daily payment gateway volumes; automated retraining/forecasting with Vertex AI + BigQuery and validated campaign lift with A/B testing, contributing to ~7% usage increases during campaign seasons.
+* Implemented a fraud detection service (MySQL geospatial search + FastAPI) to flag merchant name/location manipulation and alert CRM apps in near real time.
+* Engineered a distributed pipeline processing 100M log rows/month (MySQL → unified profiles in MongoDB → tokenized BigQuery tables via Dataflow), accelerating phases 6x–30x via Dask, concurrency, and indexing; automated runs with cron. The pipeline forms the bedrock of all the analytics work done at SSL Wireless.
 
 </details>
 
