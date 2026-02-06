@@ -70,7 +70,7 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 
 ---
 
-## 💼 Professional Experience
+## 💼 Recent Professional Experience
 
 <details>
 <summary><b>Astute 360 Corporation (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
