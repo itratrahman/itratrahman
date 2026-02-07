@@ -70,7 +70,7 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 
 ---
 
-## 💼 Recent Professional Experience
+## 💼 Professional Experience
 
 <details>
 <summary><b>Astute 360 Corporation (Texas, USA) — Senior Data Scientist</b> · Apr 2024 – Present</summary>
@@ -112,6 +112,30 @@ I am a Senior AI Engineer/Data Scientist with over 9 years of technical experien
 * Built AutoML forecasting for hourly/daily payment gateway volumes; automated retraining/forecasting with Vertex AI + BigQuery and validated campaign lift with A/B testing, contributing to ~7% usage increases during campaign seasons.
 * Implemented a fraud detection service (MySQL geospatial search + FastAPI) to flag merchant name/location manipulation and alert CRM apps in near real time.
 * Engineered a distributed pipeline processing 100M log rows/month (MySQL → unified profiles in MongoDB → tokenized BigQuery tables via Dataflow), accelerating phases 6x–30x via Dask, concurrency, and indexing; automated runs with cron. The pipeline forms the bedrock of all the analytics work done at SSL Wireless.
+
+</details>
+
+<details>
+<summary><b>Learners & Yearners (Dhaka, Bangladesh) — Data Scientist</b> · Jan 2017 – Mar 2020</summary>
+
+* Designed and delivered an applied ML curriculum with code repositories, slides, and recorded lectures focused on low-level algorithm implementation.
+* Built a Python package implementing core ML algorithms from scratch (Decision Trees, KNN, K-means) and delivered small–medium EDA/predictive projects to reinforce concepts.
+* Taught a 2-month data science bootcamp to 10–15 learners, covering ML fundamentals and hands-on projects.
+* Contributed to startup business planning and pitching materials (business plan, pitch deck).
+
+</details>
+
+<details>
+<summary><b>Southeast Bank Limited (Dhaka, Bangladesh) — Junior Data Scientist</b> · May 2016 – Aug 2016</summary>
+
+* Developed a fully-fledged optical character recognition software utilising advanced machine learning and computer vision techniques to convert raw bank documents into text documents.
+
+</details>
+
+<details>
+<summary><b>Insight Robotics Limited (Hong Kong) — Software Engineering Intern (AI/ML)</b> · Nov 2015 – Jan 2016</summary>
+
+* Developed an image-based smoke detection algorithm utilising advanced machine learning and computer vision techniques, which halved the false alarm rate and improved the detection rate.
 
 </details>
 
